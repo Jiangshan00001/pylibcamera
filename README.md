@@ -1,10 +1,17 @@
 # pylibcamera
 a libcamera python bindings
 
-this is used on raspberry pi, maybe it could used on other platforms.
+this is used only on raspberry pi, maybe it could used on other platforms.
 
 most of the c code is copyed from:
 https://github.com/raspberrypi/libcamera-apps
+
+
+# install(should only on raspberry pi)
+```
+pip3 install pylibcamera
+
+```
 
 
 python bindings for raw-image get:
