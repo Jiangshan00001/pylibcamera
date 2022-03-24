@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+test/libtest.py.bak
+test/libtest2.py.bak
+libcamera_apps/apps/CMakeLists.txt.bak
+*.bak
