@@ -1,6 +1,16 @@
 # pylibcamera
 a libcamera python bindings
 
+their seems one offical port form:
+https://github.com/kbingham
+which you should use.
+or
+
+https://github.com/raspberrypi/picamera2
+
+
+==========
+
 this is used only on raspberry pi, maybe it could used on other platforms.
 
 most of the c code is copyed from:
